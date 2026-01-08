@@ -2,7 +2,7 @@
 
 This repository contains beginner SQL practice using MySQL.
 
-Day 1
+## Day 1
 - Learned basic SQL syntax
 - Used `SELECT` statements
 - Applied `WHERE` conditions
